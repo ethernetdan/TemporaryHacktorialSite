@@ -1,0 +1,2 @@
+class HacktorialsController < ApplicationController
+end
